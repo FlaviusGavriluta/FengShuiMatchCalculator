@@ -1,9 +1,9 @@
 package com.codecool;
 
 import com.codecool.service.*;
-import com.codecool.ui.FengShuiMatchCalculatorUi;
+import com.codecool.ui.*;
 
-class Program {
+public class Application {
     public static void main(String[] args) {
         PersonaProvider personaProvider = new PersonaProviderImpl();
         SignCalculator signCalculator = new SignCalculatorImpl();
