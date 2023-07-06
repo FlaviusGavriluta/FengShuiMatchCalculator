@@ -1,8 +1,6 @@
 package com.codecool.service;
 
-import com.codecool.model.Match;
-import com.codecool.model.Persona;
-import com.codecool.model.Sign;
+import com.codecool.model.*;
 
 import java.time.LocalDate;
 import java.util.Arrays;
